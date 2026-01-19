@@ -1,13 +1,13 @@
 # 🚀 Welcome to **Python Space**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Lokesh-Reddy-KamBHAM/Python-Space?style=for-the-badge&color=blueviolet)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Lokesh-Reddy-KamBHAM/Coding-Space?style=for-the-badge&color=blueviolet)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 ---
 
 ### 🐍 About This Repository  
-Welcome to **Python Space**, a structured and evolving collection of Python codes — built to improve problem-solving skills, explore logic, and strengthen programming concepts.  
+Welcome to **Coding Space**, a structured and evolving collection of Coding Challenges — built to improve problem-solving skills, explore logic, and strengthen programming concepts.  
 
 ---
 
@@ -25,7 +25,7 @@ Welcome to **Python Space**, a structured and evolving collection of Python code
 ---
 
 ### 🧭 My Goal  
-To master **Python problem-solving** through consistent practice — one challenge at a time.
+To master **problem-solving and DSA** through consistent practice — Minimum 5 Challenges per day.
 
 ---
 
@@ -39,4 +39,4 @@ To master **Python problem-solving** through consistent practice — one challen
 
 ---
 
-⭐ *If you like this repository, don’t forget to star it and follow along my Python journey!*  
+⭐ *If you like this repository, don’t forget to star it and follow along my Coding journey!*  
