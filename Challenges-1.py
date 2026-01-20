@@ -70,3 +70,41 @@ elif r == p and r>q:
     print(f"{r} and {p} is Equal and Greater than {q}")
 else:
     print(f"{r} is Greater than {p} and {q}")
+""" 7.Find LCM of Two Numbers """
+s = int(input("Enter Number:"))
+t = int(input("Enter Number:"))
+large = max(s,t)
+lcm = large
+while  not (lcm % s == 0 and lcm % t == 0):
+    lcm += large
+print(lcm)
+""" 8.Find GCD or HCF of Two Numbers """
+u = int(input("Enter Number:"))
+v = int(input("Enter Number:"))
+gcd = 0
+for i in range(2,min(u,v)+1):
+    if  u % i ==0 and v % i == 0:
+        gcd = i
+print(gcd)
+""" 9.Check Two Numbers are Co-Prime or not """
+w = int(input("Enter Number:"))
+x = int(input("Enter Number:"))
+hcf = 1
+for i in range(2,min(w,x)+1):
+    if  w % i ==0 and x % i == 0:
+        hcf = i
+print("Co-Prime" if hcf==1 else "Not Co Prime")
+""" 10.Find All Divisors of a Number """
+y = int(input("Enter Number:"))
+for i in range(1,y+1):
+    if y%i==0:
+        print(i,end=" ")
+print()
+""" 11. Count Distinct Elements in an Array """
+z = int(input("Enter length of an array:"))
+array = []
+for i in range(1,z+1):
+    j = input("Enter Element:")
+    array.append(j)
+unique_array = set(array)
+print(len(unique_array))
